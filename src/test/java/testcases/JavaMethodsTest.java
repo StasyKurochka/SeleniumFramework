@@ -11,8 +11,7 @@ public class JavaMethodsTest {
         //Please
         int income = 10277;
 
-        String condition1 = "your tax will be 10%";
-        String condition2 = "your tax will be 12%";
+      
         String condition3 = "your tax will be 22%";
         String condition4 = "please call your CPA";
 
